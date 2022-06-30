@@ -35,3 +35,6 @@ console.log({ergebnis9})
 //10
 const ergebnis10 = mangos+äpfel>orange-mangos
 console.log({ergebnis10})
+//11
+const ergebnis11 = mangos+äpfel>=orange-mangos
+console.log(ergebnis11)
